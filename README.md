@@ -5,6 +5,7 @@ hello ChatGpt, please make me a list of skills based on my CV but don't put all 
 Sure, Camy! Here’s a clear and structured list of your skills based on your CV, divided into Soft Skills and Hard Skills, ready for you to use in your bio, project descriptions, or profile tags:
 
 #### 👩‍💻 Programming & Data
+* **C/C++** (Arduino) – *Embedded systems development and hardware-level programming.*
 * **Python** (Pandas, Scrapy, API Requests) - *Focus for Data Science & Web Scraping*
 * **SQL** - *Database querying and management*
 * JavaScript, Swift
@@ -16,6 +17,7 @@ Sure, Camy! Here’s a clear and structured list of your skills based on your CV
 * Debugging, Testing & QA, Reverse Engineering
 
 #### 🌐 Software & Platforms
+* Arduino IDE & Serial Plotter – Developing and debugging firmware.
 * VS Code, IntelliJ IDEs, Xcode, SQL Developer
 * HTML5, CSS3, Web Hosting
   
