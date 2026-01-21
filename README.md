@@ -1,4 +1,4 @@
-hello ChatGpt, please make me a list of skills based on my CV but don't put all the skills that are there, put only the important and valuable ones thanks 
+hello Gemini, please make me a list of skills based on my CV but don't put all the skills that are there, put only the important and valuable ones thanks 
 
 ---
 
