@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Camy! 👋</h1>
 
 <h3 align="center">
-  Software Engineer | Data Enthusiast | Embedded Systems
+  Python Developer | Data Engineer | Embedded Systems
 </h3>
 
 <p align="center">
