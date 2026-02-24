@@ -1,47 +1,63 @@
-hello Gemini, please make me a list of skills based on my CV but don't put all the skills that are there, put only the important and valuable ones thanks 
+<h1 align="center">Hi there, I'm Camy! 👋</h1>
+
+<h3 align="center">
+  Software Engineer | Data Enthusiast | Embedded Systems
+</h3>
+
+<p align="center">
+  <i>"Turning complex problems into scalable solutions."</i>
+</p>
+
+<p align="center">
+  <a href="#connect">Connect</a> •
+  <a href="#skills">Tech Stack</a> •
+  <a href="#stats">GitHub Stats</a>
+</p>
 
 ---
 
-Sure, Camy! Here’s a clear and structured list of your skills based on your CV, divided into Soft Skills and Hard Skills, ready for you to use in your bio, project descriptions, or profile tags:
+## 👩‍💻 About Me
 
-#### 👩‍💻 Programming & Data
-* **C/C++** (Arduino) – *Embedded systems development and hardware-level programming.*
-* **Python** (Pandas, Scrapy, API Requests) - *Focus for Data Science & Web Scraping*
-* **SQL** - *Database querying and management*
-* JavaScript, Swift
+I am an adaptable and self-taught developer with a passion for **continuous learning**. I thrive on analytical thinking and have a strong background in both high-level data processing and low-level hardware programming.
 
-#### ⚙️ Development Tools & Concepts
-* **Git & GitHub** - *Version Control*
-* **Docker** - *Containerization for ML/AI deployment*
-* **DSA** (Data Structures & Algorithms) & **OOP** (Object-Oriented Programming)
-* Debugging, Testing & QA, Reverse Engineering
-
-#### 🌐 Software & Platforms
-* Arduino IDE & Serial Plotter – Developing and debugging firmware.
-* VS Code, IntelliJ IDEs, Xcode, SQL Developer
-* HTML5, CSS3, Web Hosting
-  
-
-### 🧠 Soft Skills & Mindset
-I thrive on learning and tackling tough problems:
-
-* **Problem-Solving & Analytical Thinking**
-* **Self-Taught & Adaptable** (Continuous learning focus)
-* Strong Communication & Technical Writing
-* Ambitious and Detail-Oriented
+* 🔭 I’m currently working on **Data Science** and **Embedded** projects.
+* 🛠️ I enjoy **Reverse Engineering** and deep-diving into **OOP & DSA**.
+* ⚡ Core strengths: **Problem-Solving**, **Technical Writing**, and **Debugging**.
 
 ---
-<!--
-**95cs/95cs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## <a name="skills"></a>🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Languages
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Swift](https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+
+### 📊 Data & Cloud
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Scrapy](https://img.shields.io/badge/scrapy-%2360A839.svg?style=for-the-badge&logo=scrapy&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+### ⚙️ Hardware & Tools
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## <a name="stats"></a>📈 GitHub Analytics
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=95cs&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Camy's GitHub Stats" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=95cs&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  </a>
+</p>
